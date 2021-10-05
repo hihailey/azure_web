@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'codeFirstKhs'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_42D41969E45B4930801BA71C14E2F789 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0C469F28AF9247428E31C6F05293388D }}
           package: .
